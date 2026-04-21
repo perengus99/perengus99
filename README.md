@@ -40,7 +40,7 @@ I am a **Software Engineer** with a deep interest in automated systems. My exper
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perengus99&show_icons=true&theme=tokyonight&count_private=true" alt="Sayyid's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perengus99&show_icons=true&theme=tokyonight&count_private=true" alt="Sayid's Stats" />
 </p>
 
 <p align="center">
