@@ -1,31 +1,54 @@
-# Hi 👋, I'm Sayyid Muzaq (@perengus99)
-### Software Engineer | Pentester | Automation Enthusiast
+<div align="center">
+  <h1>Hi 👋, I'm Sayyid Muzaq</h1>
+  <p align="center">
+    <strong>Software Engineer | Pentester | Automation Specialist</strong>
+  </p>
 
-I'm a passionate developer focused on building automated systems, financial trading bots, and AI-driven applications. Currently working on high-performance infrastructure and smart automation.
-
----
-
-### 🛠 Tech Stack & Tools
-- **Languages:** Python, JavaScript (Next.js), PHP
-- **Infrastructure:** VPS Administration (aaPanel, Coolify), Cloudflare WAF
-- **Automation:** MetaTrader 5 API, Bitget API, VoIP/IVR Systems
-- **Tools:** MacBook Pro M2, Android Device Farms (Project Legion)
-
----
-
-### 🚀 Current Projects
-- **[GoodMyBot](https://goodmybot.com):** An AI-powered personal assistant and automated reminder system.
-- **Financial Automation:** Developing scalping strategies for Crypto and Forex markets.
-- **Clipper Bot:** Automated social media content creation and distribution.
+  <p>
+    <a href="https://strategis.co.id"><img src="https://img.shields.io/badge/Website-strategis.co.id-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://goodmybot.com"><img src="https://img.shields.io/badge/Project-GoodMyBot-orange?style=for-the-badge&logo=robot&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
-![Sayyid's GitHub stats]([https://github-readme-stats.vercel.app/api?username=perengus99&show_icons=true&theme=tokyonight](https://superhero.vps.webdock.cloud/))
-![Top Langs](https://cyberroad.cloud)
+### ⚡ About Me
+I am a **Software Engineer** with a deep interest in automated systems. My expertise ranges from building financial trading bots (Crypto/Forex) to advanced server administration and network security. I love "vibe coding" and leveraging AI to build rapid prototypes.
+
+### 🛠 Tech Stack
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js,nextjs" width="48" alt="JS/Next" /><br />Frontend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py,php" width="48" alt="Python/PHP" /><br />Backend
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux,cloudflare" width="48" alt="Server" /><br />Infrastructure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=apple,android" width="48" alt="Devices" /><br />Hardware
+    </td>
+  </tr>
+</table>
+
+### 🚀 Projects in Progress
+* **GoodMyBot:** AI Voice & IVR Automation system for personalized reminders.
+* **Project Legion:** Android phone farm controller for social media automation.
+* **Financial Bots:** Automated scalping strategies on MT5 & Bitget.
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=perengus99&show_icons=true&theme=tokyonight&count_private=true" alt="Sayyid's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perengus99&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Let's Connect
-- **Website:** [strategis.co.id](https://strategis.co.id)
-- **App:** [goodmybot.com](https://goodmybot.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=perengus99&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</div>
